@@ -363,7 +363,7 @@ ul {
 }
 /* ///shahzaib */
 .has-search .form-control {
-  padding-left: 8rem;
+  padding-left: 2.375rem;
 }
 .has-search input {
   background-color: transparent;
@@ -445,8 +445,8 @@ a.xp-btn {
 .slider_2,
 .slider_3 {
   position: relative;
-  /* height: 350px; */
-  height: 500px;
+  height: 350px;
+  /* height: 500px; */
   background-position: top;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1005,6 +1005,7 @@ p {
   width: 10px;
   height: 5px;
   border-radius: 900px !important;
+  background-color: black !important;
 }
 .carousel-indicators {
   margin-left: 0;
